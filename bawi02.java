@@ -1,2 +1,1 @@
-des trucs supplementaires nouveaux...
-modif avant pull request
+modif depuis batch gui
